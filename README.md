@@ -1,6 +1,6 @@
 # Movie-theatre-booking-system
-This is a project made for college project using the concepts of oops
-the concepts of oops that are used in this project are:
+This is a project made for college project using the concepts of oops.
+The concepts of oops that are used in this project are:
 	Classes 
 	Objects 
 	Inheritance – multilevel, diamond shape, multiple

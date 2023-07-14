@@ -1,0 +1,7 @@
+Movie Name        Release Date      Genre            Language       Duration
+---------------------------------------------------------------------------
+Har har mahadev      23 sep 2022     comdey          hindi      2hr 13 mins
+Thank god            25 oct 2022     fantasy,drama   hindi      2hr 1min
+Ammu                 19 oct 2022     drama,mystery   telugu     2hr 22 mins
+Ram Setu             25 oct 2022     action,drama    hindi      2hr 16 mins
+Honeymoon            25 oct 2022     comedy,romance  punjabi    1hr 27 mins 

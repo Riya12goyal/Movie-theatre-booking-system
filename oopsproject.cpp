@@ -165,7 +165,9 @@ void membership::benefits(){
                cout<<"\n 1. For every purchase of a movie ticket you get 25 points(1point = 1Rs.) so after 16 movies you get a free movie ticket.";
 					cout<<"\n 2. You are provided with regular updates regarding the movie and the showtimings.";
 					cout<<"\n 3. Anytime prebook tickets for the upcoming movie and preffered seats will be provided.";
+               cout<<endl;
 }
+
 class movie
 {
 public:
@@ -447,12 +449,15 @@ class ticket {
          else{
             record<<endl;
             record <<" DATE:"<<"      "<<c.get_date()<<endl;
-            record<<" Name"<< c.getname()<<"                                    "<<"phone number"<<" "<< c.get_phone()<<endl;
+            record<<" Name:"<<"   "<< c.getname()<<"                                 "<<"phone number"<<" "<< c.get_phone()<<endl;
             record<<"---------------------------------------------------------------------------"<<endl;
             record<<"Movie Name:"<<"     "<<m.get_movie()<<endl;
-            record<<"Number of seats"<<" "<< t.getnumber()<<endl;
-            record<< "Seat type:"<<" "<<t.get_type()<<endl;
-            record<<"Price = "<<"      "<<t.getprice()<<endl;
+            cout<<endl;
+            record<<"Number of seats:"<<"   "<< t.getnumber()<<endl;
+         
+            record<< "Seat type:"<<"  "<<t.get_type()<<endl;
+         
+            record<<"Price : "<<"      "<<t.getprice()<<endl;
           
          }
          system("CLS");
